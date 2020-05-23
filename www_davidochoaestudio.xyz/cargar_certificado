@@ -1,0 +1,1 @@
+aws iam upload-server-certificate --server-certificate-name elastic-beanstalk-certificado --certificate-body file://www_davidochoaestudio_xyz.crt --certificate-chain file://www_davidochoaestudio_xyz.ca-bundle --private-key file://server.key
